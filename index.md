@@ -1,7 +1,11 @@
 # **Reflection**
 
 
-Week Four: Government projected spending 2021-2022
+## **Week Four: Government projected spending 2021-2022**
+
+## **Static-websites**
+
+Created this as a static website on github.
 
 ## **Working in RStudio**
 
@@ -11,9 +15,7 @@ Something to take note off while working in this topic is that, 2021-2022 should
 
 ## **Working in Excel with a csv file**
 
-Working in Excel makes it easier to make graphs and see how our tax money is spent. From the graph. From the graph you can see that most of our tax money goes toward Transfer Payments, which include things such as health care, post-secondary education, social services and more. They plan to spend over 270 billion dollars in the year 2021-2022 though most of the care they provide still seems lacking which begs the question how efficiently are these dollars spent.
+Working in Excel makes it easier to make graphs and see how our tax money is spent. From the graph. From the graph you can see that most of our tax money goes toward Transfer Payments, which include things such as health care, post-secondary education, social services and more. They plan to spend over 270 billion dollars in the year 2021-2022 though most of the care they provide still seems lacking which begs the question how efficiently are these dollars spent. 
 
 
 ![Total Expenditures](totalExpend.png)
-
-## **
